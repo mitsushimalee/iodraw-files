@@ -43,12 +43,6 @@
             <mxPoint x="640" y="219.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-435" value="" style="endArrow=none;html=1;fontSize=25;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1" source="oQoDP_6LNFBr41AlssIy-427">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="220" as="sourcePoint" />
-            <mxPoint x="850" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-436" value="" style="endArrow=none;html=1;fontSize=25;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-100" y="219.5" as="sourcePoint" />

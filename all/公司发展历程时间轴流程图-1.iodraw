@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qoVOklZrsl5ESR9r233W-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qoVOklZrsl5ESR9r233W-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot; style=&quot;font-size: 16px;&quot;&gt;在&lt;/font&gt;&lt;font style=&quot;font-family: 仿宋_GB2312; font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;ZETA&lt;/font&gt;&lt;font style=&quot;font-family: 仿宋_GB2312; font-size: 16px;&quot; face=&quot;仿宋_GB2312&quot;&gt;中发现磁场反转现象&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" width="120" height="80" as="geometry" />

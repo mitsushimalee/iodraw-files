@@ -19,9 +19,6 @@
         <mxCell id="oQoDP_6LNFBr41AlssIy-427" value="21世纪" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fillColor=#E5CCFF;strokeColor=#000000;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="660" y="160" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-428" value="2019" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fillColor=#FFCCFF;strokeColor=#000000;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1040" y="180" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-429" value="" style="endArrow=none;html=1;fontSize=25;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="oQoDP_6LNFBr41AlssIy-421" target="oQoDP_6LNFBr41AlssIy-422" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="310" as="sourcePoint" />
@@ -118,15 +115,6 @@
             <mxPoint x="880" y="68.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="980" y="88.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-451" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=3;fontSize=25;fontColor=#000000;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1108.2842712474617" y="248.28427124746213" as="sourcePoint" />
-            <mxPoint x="1000" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1090" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>

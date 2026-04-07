@@ -95,8 +95,8 @@
         <mxCell id="qoVOklZrsl5ESR9r233W-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312;&quot;&gt;持续进行等离子体运行&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋_GB2312&quot;&gt;研究&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qoVOklZrsl5ESR9r233W-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="qoVOklZrsl5ESR9r233W-19" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋_GB2312&quot;&gt;成为磁约束聚变领域的重要分支&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

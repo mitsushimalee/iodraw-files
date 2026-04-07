@@ -52,15 +52,6 @@
         <mxCell id="oQoDP_6LNFBr41AlssIy-438" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#E6E6E6;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-130" y="205" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-440" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=25;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="oQoDP_6LNFBr41AlssIy-421" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-110" y="90" as="sourcePoint" />
-            <mxPoint x="-60" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="30" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-442" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=3;fontSize=25;fontColor=#000000;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oQoDP_6LNFBr41AlssIy-422" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="450" as="sourcePoint" />
@@ -69,9 +60,6 @@
               <mxPoint x="250" y="340" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-443" value="创立公司&lt;br style=&quot;font-size: 16px;&quot;&gt;创始人创立公司&lt;br style=&quot;font-size: 16px;&quot;&gt;创始人创立公司" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry y="390" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-444" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=3;fontSize=25;fontColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oQoDP_6LNFBr41AlssIy-423" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

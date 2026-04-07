@@ -1,0 +1,122 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="1406" dy="1095" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-394.5" y="243" width="357" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-392" y="-96" width="357" height="317" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="43" as="targetPoint" />
+            <mxPoint x="-219" y="-24" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-219" y="10" />
+              <mxPoint x="-130" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-1" target="zLEbxWj2nksMSuuW5wdk-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-305" y="38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-1" value="柔性资源评价指标选取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-64" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-216" y="141.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-9" value="指标数据获取" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="43" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-10" value="定性指标赋值" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-186" y="43" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-217" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-15" value="柔性资源调节能力指标体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-304" y="142" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.485;exitY=0.886;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="187" as="sourcePoint" />
+            <mxPoint x="-219" y="275" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-219" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-216" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-19" value="柔性资源调节能力评价指标&lt;span style=&quot;background-color: initial;&quot;&gt;初始矩阵&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="275" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-216" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-21" value="计算评价指标的熵值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="345" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-9" y="-43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-24" value="计算各调节能力评价指标的权重" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="415" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-27" target="zLEbxWj2nksMSuuW5wdk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-27" value="构造加权决策矩阵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="58" y="-64" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-28" value="方案排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="58" y="415" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-29" target="zLEbxWj2nksMSuuW5wdk-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-29" value="柔性资源调节能力效用度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="58" y="176" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-30" target="zLEbxWj2nksMSuuW5wdk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-30" value="扩展的加权决策矩阵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="58" y="56" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="zLEbxWj2nksMSuuW5wdk-31" target="zLEbxWj2nksMSuuW5wdk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-31" value="柔性资源调节能力调用函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="58" y="296" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-8" y="-45" as="sourcePoint" />
+            <mxPoint x="55" y="-45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLEbxWj2nksMSuuW5wdk-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="-96" width="315" height="585" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

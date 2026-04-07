@@ -13,9 +13,6 @@
         <mxCell id="oQoDP_6LNFBr41AlssIy-423" value="2014" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fillColor=#FFFFCC;strokeColor=#000000;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-424" value="2015" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fillColor=#CCFFCC;strokeColor=#000000;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="480" y="160" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-425" value="2016" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fillColor=#CCFFFF;strokeColor=#000000;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="120" height="120" as="geometry" />
         </mxCell>
@@ -123,15 +120,6 @@
         </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-445" value="创立公司&lt;br style=&quot;font-size: 16px;&quot;&gt;创始人创立公司&lt;br style=&quot;font-size: 16px;&quot;&gt;创始人创立公司" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="395" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-446" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=3;fontSize=25;fontColor=#000000;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="oQoDP_6LNFBr41AlssIy-424" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="100" as="sourcePoint" />
-            <mxPoint x="440" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="540" y="100" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-447" value="创立公司&lt;br style=&quot;font-size: 16px;&quot;&gt;创始人创立公司&lt;br style=&quot;font-size: 16px;&quot;&gt;创始人创立公司" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="-40" width="190" height="90" as="geometry" />

@@ -116,12 +116,12 @@
         </mxCell>
         <mxCell id="yRDfgFfTDzgd5pn44rQP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="89.99999999999989" as="targetPoint" />
-            <mxPoint x="190" y="170" as="sourcePoint" />
+            <mxPoint y="79.99999999999989" as="targetPoint" />
+            <mxPoint y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yRDfgFfTDzgd5pn44rQP-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;在&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ZETA&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;中发现磁场反转现象&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="130" y="10" width="120" height="80" as="geometry" />
+          <mxGeometry x="-60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
